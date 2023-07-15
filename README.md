@@ -59,11 +59,11 @@ This project demonstrates the basic usage of FluentValidation library in an ASP.
 
 ### **An example of the success status request and response scenario with a 200(OK) code:**
 
-![](https://github.com/beyzanc/fluent-validation-demo/blob/master/200%20success.png)
+![](https://github.com/278-Sipay/assignment-1-beyzanc/blob/main/ss/200.png)
 
 ### **An example of the failed status request and response scenario with a 400(Bad Request) code:**
 
-![](https://github.com/beyzanc/fluent-validation-demo/blob/master/400%20failed.png)
+![](https://github.com/278-Sipay/assignment-1-beyzanc/blob/main/ss/400.png)
 
 ## Object Oriented Programming
 
