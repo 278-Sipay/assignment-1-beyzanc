@@ -31,7 +31,7 @@ This project demonstrates the basic usage of FluentValidation library in an ASP.
 
    Navigate to `http://localhost:<port>/sipy/api/Person`, where <port> is the port number assigned by the development server.
 
-   Use the Swagger UI to interact with the API and test the PersonController's POST method.
+   Or by default with the Swagger tool that you add to your Program.cs file, use the Swagger UI to interact with the API and test the PersonController's POST method.
 
 7. Enjoy!
 
